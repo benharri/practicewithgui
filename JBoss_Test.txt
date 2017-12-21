@@ -1,1 +1,1 @@
-Test
+Test JBoss doesn't know what he is doing!
