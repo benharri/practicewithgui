@@ -1,4 +1,7 @@
 # practicewithgui
+Jordan was here dropping some knowledge!!!
+
+
 
 hi there
 
