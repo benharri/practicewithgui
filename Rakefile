@@ -1,5 +1,6 @@
 task default: %w[start]
 
 task :start do
-  puts "hi from rake"
+  puts "John is really cool"
+  puts "hi from nope rake"
 end
